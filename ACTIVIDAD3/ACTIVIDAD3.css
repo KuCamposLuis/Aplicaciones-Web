@@ -1,0 +1,107 @@
+*{
+    padding:  0%;
+    margin: 0%;
+}
+html{
+    background-color: blueviolet;
+}
+
+body{
+    height: 1000px;
+    width: 1000px;
+    margin: auto;
+
+}
+
+header{
+    height: 280px;
+    width: 1000px;
+    background-color: gray;
+}
+
+.Banner{
+    display: flex;
+    height: 70px;
+    width: 980px;
+    background-color: greenyellow;
+    align-items: center;
+    padding-left: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.DATOS_PERSONALES{
+    height: 40px;
+    width: 980px;
+    background-color: white;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.ContenidoDP img {
+    float: right;
+    max-width: 165px;
+    margin-right: 10px;
+
+}
+.ContenidoDP{ 
+    
+    align-items: center;
+    height: 170px;
+    width: 980px;
+    background-color: rgb(163, 148, 148);
+    align-items: center;
+    padding-left: 20px;
+    
+}
+
+
+
+main{
+    height: 1000px;
+    width: 1000px;
+    background-color: rgb(155, 139, 110);
+    
+}
+
+.titulo1{
+
+    height: 40px;
+    width: 980px;
+    background-color: white;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.Contenido{ 
+    height: 95px;
+    width: 980px;
+    background-color: rgb(163, 148, 148);
+    align-items: center;
+    padding-left: 20px;
+}
+.ContenidoFA{ 
+    height: 215px;
+    width: 980px;
+    background-color: rgb(163, 148, 148);
+    align-items: center;
+    padding-left: 20px;
+}
+.titulo2{
+
+    height: 48px;
+    width: 980px;
+    background-color: rgb(174, 121, 121);
+    align-items: center;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
